@@ -1,0 +1,17 @@
+.dashboard {
+  margin: 10px;
+}
+h1 {
+  text-align: center;
+}
+.cancelbtn {
+  float: right;
+}
+li {
+  list-style-type: none;
+}
+
+button {
+  font-size: medium;
+  color: blueviolet;
+}
